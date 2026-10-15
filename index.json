@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "scikit-learn-extra",
+  "versions": [
+    {
+      "commit": "da55e27dbbc4c028874ab4f1e1057bd073480ba1",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:35:10.277276+00:00"
+    }
+  ]
+}
